@@ -1,7 +1,7 @@
 # Welcome to my YelpCamp Application
 
 # Click here to see my application deployed on Heroku:
-https://powerful-reef-26822.herokuapp.com
+https://henry-yelpcamp.herokuapp.com/
 
 # In this app, I used the following technologies
 * mongoose
